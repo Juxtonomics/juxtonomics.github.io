@@ -12,16 +12,17 @@
         {
             "id": "https://juxtonomics.github.io/another-post.html",
             "url": "https://juxtonomics.github.io/another-post.html",
-            "title": "another post",
-            "summary": "more post stuff",
-            "content_html": "<p>more post stuff</p>",
+            "title": "The Price of Bread and the Weight of Empires",
+            "summary": "A single loaf in 1789 could cost a day's wages. But what truly broke was not the baker’s scale—it was the system itself. In every upheaval, there is a grain of hunger. Before flags are raised or monarchs fall, it is the marketplace that whispers&hellip;",
+            "content_html": "<blockquote data-start=\"222\" data-end=\"346\">\n<p data-start=\"224\" data-end=\"346\"><em data-start=\"224\" data-end=\"346\">A single loaf in 1789 could cost a day's wages. But what truly broke was not the baker’s scale—it was the system itself.</em></p>\n</blockquote>\n<hr data-start=\"348\" data-end=\"351\">\n<h3 data-start=\"353\" data-end=\"369\">Introduction</h3>\n<p data-start=\"371\" data-end=\"566\">In every upheaval, there is a grain of hunger. Before flags are raised or monarchs fall, it is the marketplace that whispers first. Juxtonomics is concerned not with the dramatic—but the gradual.</p>\n<h3 data-start=\"568\" data-end=\"583\">Paris, 1789</h3>\n<p data-start=\"585\" data-end=\"705\">A four-pound loaf of bread cost 15 sous.<br data-start=\"625\" data-end=\"628\">A skilled worker made 20.<br data-start=\"653\" data-end=\"656\">A family needed two loaves.<br data-start=\"683\" data-end=\"686\">Math does the rest.</p>\n<p data-start=\"707\" data-end=\"769\">And when the numbers no longer worked, neither did the people.</p>\n<hr data-start=\"771\" data-end=\"774\">\n<h3 data-start=\"776\" data-end=\"822\">Economic Fractures Beneath Political Myths</h3>\n<p data-start=\"824\" data-end=\"1015\">Historians often describe revolutions as matters of ideology. But economic records tell us something simpler: debt, inflation, and subsistence collapse systems faster than slogans ever could.</p>\n<ul data-start=\"1017\" data-end=\"1156\">\n<li data-start=\"1017\" data-end=\"1065\">\n<p data-start=\"1019\" data-end=\"1065\">Grain shortages preceded political speeches.</p>\n</li>\n<li data-start=\"1066\" data-end=\"1108\">\n<p data-start=\"1068\" data-end=\"1108\">Coin debasement outpaced royal reform.</p>\n</li>\n<li data-start=\"1109\" data-end=\"1156\">\n<p data-start=\"1111\" data-end=\"1156\">Bread riots were not chaos—they were clarity.</p>\n</li>\n</ul>\n<hr data-start=\"1158\" data-end=\"1161\">\n<h3 data-start=\"1163\" data-end=\"1188\">A Juxtonomic Question</h3>\n<p data-start=\"1190\" data-end=\"1237\">What breaks first: the economy or belief in it?</p>\n<p data-start=\"1239\" data-end=\"1361\">When the same pattern appears in 1790, 1929, 2008, and again in whispers today, we don’t need prophecy. We need precedent.</p>\n<hr data-start=\"1363\" data-end=\"1366\">\n<h3 data-start=\"1368\" data-end=\"1387\">Closing Thought</h3>\n<p data-start=\"1389\" data-end=\"1498\">Economic history is not dead data. It is a pulse. And if we listen close enough, we can hear it racing again.</p>\n<blockquote data-start=\"1500\" data-end=\"1605\">\n<p data-start=\"1502\" data-end=\"1605\"><em data-start=\"1502\" data-end=\"1605\">Juxtonomics is the art of reading between receipts. And revolution, as always, begins in the kitchen.</em></p>\n</blockquote>",
+            "image": "https://juxtonomics.github.io/media/posts/6/ChatGPT-Image-Aug-4-2025-11_04_06-PM.png",
             "author": {
                 "name": "Sid McDowell"
             },
             "tags": [
             ],
             "date_published": "2025-08-04T22:07:22-07:00",
-            "date_modified": "2025-08-04T22:07:22-07:00"
+            "date_modified": "2025-08-04T23:04:15-07:00"
         },
         {
             "id": "https://juxtonomics.github.io/this-is-a-post.html",
