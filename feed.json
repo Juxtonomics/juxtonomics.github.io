@@ -22,21 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-08-04T22:07:22-07:00",
-            "date_modified": "2025-08-04T23:04:15-07:00"
-        },
-        {
-            "id": "https://juxtonomics.github.io/this-is-a-post.html",
-            "url": "https://juxtonomics.github.io/this-is-a-post.html",
-            "title": "This is a post",
-            "summary": "This is the body",
-            "content_html": "<p>This is the body</p>",
-            "author": {
-                "name": "Sid McDowell"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-04T22:07:01-07:00",
-            "date_modified": "2025-08-04T22:07:01-07:00"
+            "date_modified": "2025-08-04T23:05:04-07:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Juxtonomics</title>
     <link href="https://juxtonomics.github.io/feed.xml" rel="self" />
     <link href="https://juxtonomics.github.io" />
-    <updated>2025-08-04T23:04:15-07:00</updated>
+    <updated>2025-08-04T23:05:04-07:00</updated>
     <author>
         <name>Sid McDowell</name>
     </author>
@@ -61,26 +61,6 @@
 <blockquote data-start="1500" data-end="1605">
 <p data-start="1502" data-end="1605"><em data-start="1502" data-end="1605">Juxtonomics is the art of reading between receipts. And revolution, as always, begins in the kitchen.</em></p>
 </blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>This is a post</title>
-        <author>
-            <name>Sid McDowell</name>
-        </author>
-        <link href="https://juxtonomics.github.io/this-is-a-post.html"/>
-        <id>https://juxtonomics.github.io/this-is-a-post.html</id>
-
-        <updated>2025-08-04T22:07:01-07:00</updated>
-            <summary>
-                <![CDATA[
-                    This is the body
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is the body</p>
             ]]>
         </content>
     </entry>
