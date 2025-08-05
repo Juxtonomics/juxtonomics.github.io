@@ -3,12 +3,32 @@
     <title>Juxtonomics</title>
     <link href="https://juxtonomics.github.io/feed.xml" rel="self" />
     <link href="https://juxtonomics.github.io" />
-    <updated>2025-08-04T20:26:58-07:00</updated>
+    <updated>2025-08-04T20:36:42-07:00</updated>
     <author>
         <name>Sid McDowell</name>
     </author>
     <id>https://juxtonomics.github.io</id>
 
+    <entry>
+        <title>heloooo</title>
+        <author>
+            <name>Sid McDowell</name>
+        </author>
+        <link href="https://juxtonomics.github.io/heloooo.html"/>
+        <id>https://juxtonomics.github.io/heloooo.html</id>
+
+        <updated>2025-08-04T20:36:42-07:00</updated>
+            <summary>
+                <![CDATA[
+                    # This is a Test This should be Georgia font on an off-white page. &gt; This is a blockquote.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p># This is a Test<br><br>This should be Georgia font on an off-white page.<br><br>&gt; This is a blockquote.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>hiiii</title>
         <author>
