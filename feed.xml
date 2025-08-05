@@ -3,10 +3,50 @@
     <title>Juxtonomics</title>
     <link href="https://juxtonomics.github.io/feed.xml" rel="self" />
     <link href="https://juxtonomics.github.io" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2025-08-04T22:07:22-07:00</updated>
     <author>
         <name>Sid McDowell</name>
     </author>
     <id>https://juxtonomics.github.io</id>
 
+    <entry>
+        <title>another post</title>
+        <author>
+            <name>Sid McDowell</name>
+        </author>
+        <link href="https://juxtonomics.github.io/another-post.html"/>
+        <id>https://juxtonomics.github.io/another-post.html</id>
+
+        <updated>2025-08-04T22:07:22-07:00</updated>
+            <summary>
+                <![CDATA[
+                    more post stuff
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>more post stuff</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is a post</title>
+        <author>
+            <name>Sid McDowell</name>
+        </author>
+        <link href="https://juxtonomics.github.io/this-is-a-post.html"/>
+        <id>https://juxtonomics.github.io/this-is-a-post.html</id>
+
+        <updated>2025-08-04T22:07:01-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the body
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the body</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
