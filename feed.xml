@@ -3,23 +3,10 @@
     <title>Juxtonomics</title>
     <link href="https://juxtonomics.github.io/feed.xml" rel="self" />
     <link href="https://juxtonomics.github.io" />
-    <updated>2025-08-06T21:53:08-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
-        <name>Sid McDowell</name>
+        <name>Sid</name>
     </author>
     <id>https://juxtonomics.github.io</id>
 
-    <entry>
-        <title>If I were a Rich Man</title>
-        <author>
-            <name>Sid McDowell</name>
-        </author>
-        <link href="https://juxtonomics.github.io/if-i-were-a-rich-man.html"/>
-        <id>https://juxtonomics.github.io/if-i-were-a-rich-man.html</id>
-        <media:content url="https://juxtonomics.github.io/media/posts/8/Untitled-1.png" medium="image" />
-
-        <updated>2025-08-06T21:42:22-07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
