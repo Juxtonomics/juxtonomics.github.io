@@ -3,10 +3,36 @@
     <title>Juxtonomics</title>
     <link href="https://juxtonomics.github.io/feed.xml" rel="self" />
     <link href="https://juxtonomics.github.io" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2025-10-10T13:39:22-07:00</updated>
     <author>
         <name>Sid</name>
     </author>
     <id>https://juxtonomics.github.io</id>
 
+    <entry>
+        <title>Fiddler on the Roof</title>
+        <author>
+            <name>Sid</name>
+        </author>
+        <link href="https://juxtonomics.github.io/fiddler-on-the-roof.html"/>
+        <id>https://juxtonomics.github.io/fiddler-on-the-roof.html</id>
+        <media:content url="https://juxtonomics.github.io/media/posts/4/Untitled-1-xs.png" medium="image" />
+
+        <updated>2025-10-10T13:39:22-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://juxtonomics.github.io/media/posts/4/Untitled-1-xs.png" alt="" />
+                    This play/movie
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://juxtonomics.github.io/media/posts/4/Untitled-1-xs.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    This play/movie
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
