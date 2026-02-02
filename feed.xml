@@ -3,35 +3,33 @@
     <title>Juxtonomics</title>
     <link href="https://juxtonomics.github.io/feed.xml" rel="self" />
     <link href="https://juxtonomics.github.io" />
-    <updated>2025-10-10T13:39:22-07:00</updated>
+    <updated>2026-02-01T19:46:56-08:00</updated>
     <author>
         <name>Sid</name>
     </author>
     <id>https://juxtonomics.github.io</id>
 
     <entry>
-        <title>Fiddler on the Roof</title>
+        <title>Rome&#x27;s Demise: A Personal Conflict</title>
         <author>
             <name>Sid</name>
         </author>
-        <link href="https://juxtonomics.github.io/fiddler-on-the-roof.html"/>
-        <id>https://juxtonomics.github.io/fiddler-on-the-roof.html</id>
-        <media:content url="https://juxtonomics.github.io/media/posts/4/Untitled-1-xs.png" medium="image" />
+        <link href="https://juxtonomics.github.io/romes-demise-a-personal-conflict.html"/>
+        <id>https://juxtonomics.github.io/romes-demise-a-personal-conflict.html</id>
+        <media:content url="https://juxtonomics.github.io/media/posts/5/italy-1005508_1280.jpg" medium="image" />
 
-        <updated>2025-10-10T13:39:22-07:00</updated>
+        <updated>2026-02-01T19:46:56-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://juxtonomics.github.io/media/posts/4/Untitled-1-xs.png" alt="" />
-                    This play/movie
+                        <img src="https://juxtonomics.github.io/media/posts/5/italy-1005508_1280.jpg" alt="" />
+                    Rome fell by coincidence, timing left the armies of Rome in the hands of two young emperors: ages 10 and 18, each controlled by a different minister. The two ministers hated eachother The Goths had settled too close to Romans before, and the emperors in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://juxtonomics.github.io/media/posts/4/Untitled-1-xs.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    This play/movie
-  </p>
+                    <p><img src="https://juxtonomics.github.io/media/posts/5/italy-1005508_1280.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Rome fell by coincidence, timing left the armies of Rome in the hands of two young emperors: ages 10 and 18, each controlled by a different minister. The two ministers hated eachother</p>
+<p>The Goths had settled too close to Romans before, and the emperors in charge have commanded their armies</p>
             ]]>
         </content>
     </entry>
